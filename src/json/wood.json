@@ -43,6 +43,27 @@
       "blockGroup": "wood"
     },
     {
+      "javaId": "minecraft:mangrove_wood",
+      "bedrockId": "mangrove_wood",
+      "jname": "マングローブの木",
+      "imagePath": "/blocks/mangrove_log.png",
+      "blockGroup": "wood"
+    },
+    {
+      "javaId": "minecraft:cherry_wood",
+      "bedrockId": "cherry_wood",
+      "jname": "桜の木",
+      "imagePath": "/blocks/cherry_log.png",
+      "blockGroup": "wood"
+    },
+    {
+      "javaId": "minecraft:pale_oak_wood",
+      "bedrockId": "pale_oak_wood",
+      "jname": "ペールオークの木",
+      "imagePath": "/blocks/pale_oak_log.png",
+      "blockGroup": "wood"
+    },
+    {
       "javaId": "minecraft:oak_planks",
       "bedrockId": "planks",
       "jname": "オークの木材",
@@ -89,6 +110,41 @@
       "bedrockId": "crimson_planks",
       "jname": "真紅の木材",
       "imagePath": "/blocks/crimson_planks.png",
+      "blockGroup": "wood"
+    },
+    {
+      "javaId": "minecraft:warped_planks",
+      "bedrockId": "warped_planks",
+      "jname": "歪んだ木材",
+      "imagePath": "/blocks/warped_planks.png",
+      "blockGroup": "wood"
+    },
+    {
+      "javaId": "minecraft:pale_oak_planks",
+      "bedrockId": "pale_oak_planks",
+      "jname": "ペールオークの木材",
+      "imagePath": "/blocks/warped_planks.png",
+      "blockGroup": "wood"
+    },
+    {
+      "javaId": "minecraft:cherry_planks",
+      "bedrockId": "cherry_planks",
+      "jname": "サクラの木材",
+      "imagePath": "/blocks/cherry_planks",
+      "blockGroup": "wood"
+    },
+    {
+      "javaId": "minecraft:mangrove_planks",
+      "bedrockId": "mangrove_planks",
+      "jname": "マングローブの木材",
+      "imagePath": "/blocks/mangrove_planks",
+      "blockGroup": "wood"
+    },
+    {
+      "javaId": "minecraft:bamboo_planks",
+      "bedrockId": "bamboo_planks",
+      "jname": "竹の木材",
+      "imagePath": "/blocks/bamboo_planks",
       "blockGroup": "wood"
     }
   ]
